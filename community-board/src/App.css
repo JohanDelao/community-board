@@ -1,3 +1,15 @@
 body{
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+.inner{
+  display: flex;
+  margin: 0 auto;
+  width: 60%;
+}
+.App .inner{
+  margin-top: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
 }

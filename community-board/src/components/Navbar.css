@@ -1,0 +1,17 @@
+.navbar {
+    background: #071013;
+    height: 8rem;
+    box-shadow: 10px 5px 5px grey;
+}
+#title{
+    font-size: 2.5rem;
+    color: #FFFFFF;
+    margin: 0;
+    margin-left: 2rem;
+}
+.navbar .inner{
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 0;
+}
