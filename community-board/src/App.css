@@ -5,11 +5,15 @@ body{
 .inner{
   display: flex;
   margin: 0 auto;
-  width: 60%;
+  width: 100%;
+  max-width: 1400px;
 }
 .App .inner{
   margin-top: 2rem;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 2rem;
+  gap: 3rem;
+}
+.App{
+  margin-bottom: 2rem;
 }
