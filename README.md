@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/JohanDelao/community-board/blob/main/projectOne.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+<img src='https://github.com/JohanDelao/community-board/blob/main/projectOne.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
